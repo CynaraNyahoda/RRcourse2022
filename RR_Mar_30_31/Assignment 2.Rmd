@@ -132,6 +132,15 @@ Below is a table showing basic statistical summary of the ratings and viewership
 </td></tr>
 
 
+## A graph of the viewership over time.
+
+```{r viewers_plot}
+setwd('C:\\Users\\Mark Asamoah\\OneDrive\\Desktop\\Cynara')
+data <- read.csv('Viewership.csv')
+
+plot(data$Viewers, type="l", col="red", lwd=5, xlab = "Season number", ylab = "TV viewers in the US (millions)")
+
+```
 
 
 
