@@ -1,0 +1,15 @@
+---
+title: "Assignment 2"
+author: "Cynara Nyahoda"
+date: "4/7/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Brief description
+
+This report is based on the TV show, 'The Good Doctor' that had its premieres on TV in September,2017. _Shaun_, a young doctor, joins a renowned hospital in San Jose, California, but his colleagues do not socialise with him. He uses his skills to treat patients and prove his abilities to his co-workers.
+
