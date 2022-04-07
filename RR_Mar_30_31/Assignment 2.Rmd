@@ -32,7 +32,6 @@ Below is a table showing basic statistical summary of the ratings and viewership
 
 
 
-
 <table><tbody><tr>
 <th scope="col" rowspan="2">Season</th>
 <th scope="col" rowspan="2">Timeslot (<a href="/wiki/Eastern_Time_Zone" title="Eastern Time Zone">ET</a>)
@@ -141,6 +140,16 @@ data <- read.csv('Viewership.csv')
 plot(data$Viewers, type="l", col="red", lwd=5, xlab = "Season number", ylab = "TV viewers in the US (millions)")
 
 ```
+
+# A short description of the observed changes.
+
+
+The viewership gradually decreased with every season from a high 15.6 million views for the first season, down to 8.16 million views for season 4.
+
+
+
+
+
 
 
 
