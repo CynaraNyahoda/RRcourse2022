@@ -13,7 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This report is based on the TV show, 'The Good Doctor' that had its premieres on TV in September,2017. _Shaun_, a young doctor, joins a renowned hospital in San Jose, California, but his colleagues do not socialise with him. He uses his skills to treat patients and prove his abilities to his co-workers.
 
+
 ## A photo with the logo or a shot from the show itself
+
 
 ```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
 
@@ -22,4 +24,114 @@ knitr::include_graphics("The_Good_Doctor_2017.png")
 ```
 
 
-## 
+## A summary of some basic statistics (e.g. on viewership or ratings).
+
+
+Below is a table showing basic statistical summary of the ratings and viewership of the first 4 seasons of the T.V show. The ratings for the fifth season are yet to be published.
+
+
+
+
+
+<table><tbody><tr>
+<th scope="col" rowspan="2">Season</th>
+<th scope="col" rowspan="2">Timeslot (<a href="/wiki/Eastern_Time_Zone" title="Eastern Time Zone">ET</a>)
+</th>
+<th scope="col" rowspan="2">Episodes
+</th>
+<th scope="col" colspan="2">First aired
+</th>
+<th scope="col" colspan="2">Last aired</th>
+<th scope="col" rowspan="2">TV season</th>
+<th scope="col" rowspan="2">Viewership<br />rank</th>
+<th scope="col" rowspan="2"><abbr title="Average">Avg.</abbr> viewers<br />(millions)</th>
+<th scope="col" rowspan="2">18–49<br />rank</th>
+<th scope="col" rowspan="2"><abbr title="Average">Avg.</abbr> 18–49<br />rating
+</th></tr>
+<tr>
+<th scope="col">Date
+</th>
+<th scope="col">Viewers<br />(millions)
+</th>
+<th scope="col">Date
+</th>
+<th scope="col">Viewers<br />(millions)
+</th></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/List_of_The_Good_Doctor_episodes#Season_1" title="List of The Good Doctor episodes">1</a>
+</th>
+<td rowspan="5">Monday 10:00&#160;p.m.<sup id="cite_ref-TFC_100-0" class="reference"><a href="#cite_note-TFC-100">&#91;98&#93;</a></sup></td>
+<td>18
+</td>
+<td>September&#160;25,&#160;2017<span style="display:none">&#160;(<span class="bday dtstart published updated">2017-09-25</span>)</span>
+</td>
+<td>11.22<sup id="cite_ref-1.01_101-0" class="reference"><a href="#cite_note-1.01-101">&#91;99&#93;</a></sup>
+</td>
+<td>March&#160;26,&#160;2018<span style="display:none">&#160;(<span class="dtend">2018-03-26</span>)</span>
+</td>
+<td>9.52<sup id="cite_ref-1.18_102-0" class="reference"><a href="#cite_note-1.18-102">&#91;100&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2017%E2%80%9318_United_States_network_television_schedule" title="2017–18 United States network television schedule">2017–18</a></td>
+<td rowspan="1">7</td>
+<td rowspan="1">15.61</td>
+<td rowspan="1">9</td>
+<td rowspan="1">3.4<sup id="cite_ref-2017-2018AvgRatings_27-1" class="reference"><a href="#cite_note-2017-2018AvgRatings-27">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/List_of_The_Good_Doctor_episodes#Season_2" title="List of The Good Doctor episodes">2</a>
+</th>
+<td>18
+</td>
+<td>September&#160;24,&#160;2018<span style="display:none">&#160;(<span class="bday dtstart published updated">2018-09-24</span>)</span>
+</td>
+<td>7.35<sup id="cite_ref-2.01_103-0" class="reference"><a href="#cite_note-2.01-103">&#91;101&#93;</a></sup>
+</td>
+<td>March&#160;11,&#160;2019<span style="display:none">&#160;(<span class="dtend">2019-03-11</span>)</span>
+</td>
+<td>7.78<sup id="cite_ref-2.18_104-0" class="reference"><a href="#cite_note-2.18-104">&#91;102&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2018%E2%80%9319_United_States_network_television_schedule" title="2018–19 United States network television schedule">2018–19</a></td>
+<td rowspan="1">12</td>
+<td rowspan="1">12.20</td>
+<td rowspan="1">12</td>
+<td rowspan="1">2.4<sup id="cite_ref-2018-2019AvgRatings_28-1" class="reference"><a href="#cite_note-2018-2019AvgRatings-28">&#91;26&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/List_of_The_Good_Doctor_episodes#Season_3" title="List of The Good Doctor episodes">3</a>
+</th>
+<td>20
+</td>
+<td>September&#160;23,&#160;2019<span style="display:none">&#160;(<span class="bday dtstart published updated">2019-09-23</span>)</span>
+</td>
+<td>6.26<sup id="cite_ref-3.01_105-0" class="reference"><a href="#cite_note-3.01-105">&#91;103&#93;</a></sup>
+</td>
+<td>March&#160;30,&#160;2020<span style="display:none">&#160;(<span class="bday dtstart published updated">2020-03-30</span>)</span>
+</td>
+<td>7.71<sup id="cite_ref-3.20_106-0" class="reference"><a href="#cite_note-3.20-106">&#91;104&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2019%E2%80%9320_United_States_network_television_schedule" title="2019–20 United States network television schedule">2019–20</a></td>
+<td rowspan="1">11</td>
+<td rowspan="1">10.82</td>
+<td rowspan="1">13</td>
+<td rowspan="1">1.8<sup id="cite_ref-2019-2020AvgRatings_29-1" class="reference"><a href="#cite_note-2019-2020AvgRatings-29">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/List_of_The_Good_Doctor_episodes#Season_4_(2020–21)" title="List of The Good Doctor episodes">4</a>
+</th>
+<td>20
+</td>
+<td>November&#160;2,&#160;2020<span style="display:none">&#160;(<span class="bday dtstart published updated">2020-11-02</span>)</span>
+</td>
+<td>4.87<sup id="cite_ref-4.01_107-0" class="reference"><a href="#cite_note-4.01-107">&#91;105&#93;</a></sup>
+</td>
+<td>June&#160;7,&#160;2021<span style="display:none">&#160;(<span class="dtend">2021-06-07</span>)</span>
+</td>
+<td>3.99<sup id="cite_ref-108" class="reference"><a href="#cite_note-108">&#91;106&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2020%E2%80%9321_United_States_network_television_schedule" title="2020–21 United States network television schedule">2020–21</a></td>
+<td rowspan="1">19</td>
+<td rowspan="1">8.16</td>
+<td rowspan="1">22</td>
+<td rowspan="1">1.2<sup id="cite_ref-2020–2021AvgRatings_30-1" class="reference"><a href="#cite_note-2020–2021AvgRatings-30">&#91;28&#93;</a></sup>
+</td></tr>
+
+
+
+
+
